@@ -1,4 +1,3 @@
-#Fibonacci-Numbers (8)
 try:
     len_nums = int(input('Enter length: '))
     if len_nums > 2:
